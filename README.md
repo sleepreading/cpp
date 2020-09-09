@@ -11,3 +11,7 @@
   WinHttpClient加强版本.
 
 
+----
+### WinVer
+  Windows版本判断
+
